@@ -2,3 +2,4 @@ full-corpus.csv
 geo_twits_squares.tsv
 labeled_corpus.tsv
 positivity_score.tsv
+data.js
